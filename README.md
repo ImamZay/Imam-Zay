@@ -1,14 +1,213 @@
-<h1 align="center">Hi 👋, I'm ZAYS</h1>
-<h3 align="center">Someone who loves creating and wants to learn many things</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=imamzay&label=Profile%20views&color=0e75b6&style=plastic" alt="imamzay" /> </p>
+# 👋 Hi, I'm **ZAYS**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/ban.zay.735" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ban.zay.735" height="30" width="40" /></a>
-<a href="https://instagram.com/imzay23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="imzay23" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/zayremixer23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="zayremixer23" height="30" width="40" /></a>
+### 🔧 Android • Linux • Hardware • Self-Hosting • Random Tech Experiments
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=imamzay&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://backbonejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/backbonejs/backbonejs-original-wordmark.svg" alt="backbonejs" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+<p>
+  <a href="https://github.com/ImamZay">
+    <img src="https://img.shields.io/github/followers/ImamZay?label=Followers&style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://github.com/ImamZay?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-Explore-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+</div>
+
+---
+
+## 🧑‍💻 About Me
+
+```text
+┌─────────────────────────────────────────────┐
+│  👋 Hey, I'm Zays                           │
+│                                             │
+│  🔧 I like taking things apart              │
+│     and figuring out how they work.         │
+│                                             │
+│  📱 Android / Custom ROM / Root             │
+│  🐧 Linux / OpenWrt / Self-hosting          │
+│  🖥️ Hardware / PC / STB                     │
+│  ⚡ Automation / Scripts / Random projects  │
+│                                             │
+│  If it works → let's see how it works.      │
+│  If it doesn't → let's fix it.              │
+└─────────────────────────────────────────────┘
+```
+
+> **“If it boots, there's probably something left to mod.”** 🔧
+
+---
+
+## 🔥 What I Like Working On
+
+<table>
+<tr>
+<td width="50%">
+
+### 📱 Android
+
+* Custom ROMs
+* Root & system modification
+* Magisk / KernelSU
+* ADB & debugging
+* Boot images & recoveries
+* Device tweaking
+
+</td>
+<td width="50%">
+
+### 🐧 Linux
+
+* Linux servers
+* OpenWrt
+* CasaOS
+* Self-hosting
+* Shell scripting
+* Lightweight setups
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🖥️ Hardware
+
+* PC / laptop troubleshooting
+* Android TV / STB
+* Firmware experiments
+* Storage & partitioning
+* Hardware modification
+
+</td>
+<td width="50%">
+
+### 🌐 Networking
+
+* Wi-Fi
+* Routers
+* WISP
+* OpenWrt
+* LAN setups
+* Network troubleshooting
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tools & Technologies
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=android,linux,bash,python,git,github,docker,html,css,js,nodejs,php,mysql,sqlite,arduino,vscode" />
+
+</p>
+
+### 🔧 Android / System
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+<img src="https://img.shields.io/badge/ADB-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+<img src="https://img.shields.io/badge/Magisk-00AF9C?style=for-the-badge&logo=magisk&logoColor=white" />
+<img src="https://img.shields.io/badge/KernelSU-111111?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+
+</p>
+
+---
+
+## 🚀 Projects & Experiments
+
+> Most of my projects are experiments, tools, tweaks, or things created because I wanted to know **“what happens if I do this?”** 😅
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 📱 Android Mods
+
+Custom ROM experiments, system tweaks, scripts, and device modifications.
+
+</td>
+
+<td align="center" width="33%">
+
+### 🏠 Self-Hosting
+
+Linux, CasaOS, Docker, STB experiments, and turning old hardware into useful servers.
+
+</td>
+
+<td align="center" width="33%">
+
+### 🔧 Hardware
+
+PC, laptop, router, Android TV boxes, firmware, and whatever hardware happens to be lying around.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=imamzay&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imamzay&layout=compact&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=imamzay&hide_border=true" />
+</p>
+
+---
+
+## 📈 Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=imamzay&hide_border=true" />
+</p>
+
+---
+
+## 🌐 Find Me
+
+<p align="center">
+
+<a href="https://github.com/ImamZay">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://instagram.com/imzay23">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<a href="https://www.youtube.com/c/zayremixer23">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
+
+<a href="https://fb.com/ban.zay.735">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### ⚡ Currently breaking things and trying to fix them.
+
+**Made with curiosity, caffeine, and questionable decisions. ☕🔧**
+
+</div>
